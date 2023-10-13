@@ -1,3 +1,1 @@
-# yango
-Simple yango app
-# Hello
+# Briisp Academy
