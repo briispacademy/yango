@@ -23,11 +23,8 @@
         android:layout_height="wrap_content"
         android:text="Yango"
         tools:layout_editor_absoluteX="170dp"
-<<<<<<< HEAD
-        tools:layout_editor_absoluteY="440dp" />
-=======
-        tools:layout_editor_absoluteY="440dp"
         tools:ignore="MissingConstraints" />
+
 
     <ImageButton
         android:id="@+id/imageButton"
@@ -38,6 +35,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button"
         tools:srcCompat="@tools:sample/avatars" />
->>>>>>> f99c82e (second commit)
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
